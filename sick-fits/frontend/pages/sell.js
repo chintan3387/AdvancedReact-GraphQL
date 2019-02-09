@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-const Sell = props => (
-    <div>
-        <p>Sell!</p>
-=======
 import Link from 'next/link';
 
 const Sell = props => (
@@ -11,7 +6,6 @@ const Sell = props => (
         <Link href="/">
             <a>Home</a>
         </Link>
->>>>>>> master
     </div>
 );
 
